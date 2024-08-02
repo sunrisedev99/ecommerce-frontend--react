@@ -1,4 +1,4 @@
-[Watch the video](./src/assets/video/video.mp4)
+[Watch the DEMO video](./src/assets/video/ecommerce-mern.mp4)
 
 
 1. environment setting
